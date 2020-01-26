@@ -1,3 +1,4 @@
-# angular-jp4i2g
+# My First Angular App!
+## Built with the [Angular.io](https://angular.io/start) Starter Tutorials
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-jp4i2g)
+[Check it out on StackBlitz ⚡️](https://angular-jp4i2g.stackblitz.io)
