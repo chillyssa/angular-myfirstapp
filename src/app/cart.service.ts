@@ -9,8 +9,8 @@ export class CartService {
   items =[];
 
 //push items into shopping cart item array defined above 
-  addToCart(){
-    this.items.push();
+  addToCart(product){
+    this.items.push(product);
   }
 
 //return items array 
